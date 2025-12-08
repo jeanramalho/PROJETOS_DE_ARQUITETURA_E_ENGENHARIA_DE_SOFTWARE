@@ -1,1 +1,3 @@
-# PROJETOS_DE_ARQUITETURA_E_ENGENHARIA_DE_SOFTWARE
+# Projetos de Arquitetura e Engenharia de Software
+
+- Repositório para armazenamento de projetos de arquiteru
