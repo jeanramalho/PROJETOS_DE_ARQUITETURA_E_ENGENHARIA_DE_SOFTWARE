@@ -2,7 +2,7 @@
 
 Tipo do projeto: Aplicativo Mobile nativo.
 
-Tecnlogias utilizadas: React Native, Expo, Armazenamento Local, pode usar bibliotecas de terceiros, pode usar bibliotecas de ícones de terceiros.
+Tecnlogias utilizadas: React Native, Expo, Armazenamento Local, pode usar bibliotecas de terceiros, pode usar bibliotecas de ícones de terceiros, execute-torch-AI: On-device & LLM.
 
 Responsividade: O Aplicativo deve funcionar bem em celulares primariamente, mas também deve ter um bom layout em tablets.
 
