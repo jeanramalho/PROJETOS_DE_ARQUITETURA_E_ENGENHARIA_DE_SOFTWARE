@@ -60,4 +60,4 @@ Nessa aba, o pilar de saúde acompanhará a saúde do usuário, incentivando o u
 
 ### Finanças
 
-Nessa aba, teremos um app de gestão de controle financeiro completo, com gráficos e tudo mais.
+Nessa aba, teremos um app de gestão de controle financeiro completo, com gráficos e tudo mais. Teremos a área de planejamentos, onde o usuário colocará o ideal que ele tem para o mês em questão
