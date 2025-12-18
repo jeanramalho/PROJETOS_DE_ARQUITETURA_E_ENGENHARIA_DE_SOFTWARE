@@ -69,3 +69,7 @@ Nessa aba, teremos algo parecido com uma agenda normal, porém com metas a serem
 ### Perfil
 
 Essa será uma aba adicional além dos 4 pilares, mas não entrará nos pilares e nem será metrificada e também aparecerá no header, será a aba de perfil do usuário onde ele poderá colocar os dados dele, nome, foto, sexo, peso, altura, meta de peso, e o app se alimentará desses dados também.
+
+## Escalabilidade
+
+O App deverá ter facilidade para escalabilidade, como pra criar conta de usuário, trabalhar online, e como ainda não temos um nome e cores definidas diretamente, tudo deve ser fácil de mudar, em variáveis que muda tudo no app somente ao mudar a variável. A princípio o nome do app será "GrowUp Yourself" as cores serão as cores já descritas no campo cores do documento.
