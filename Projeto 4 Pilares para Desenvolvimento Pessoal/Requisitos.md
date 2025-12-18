@@ -64,4 +64,4 @@ Nessa aba, teremos um app de gestão de controle financeiro completo, com gráfi
 
 ### Relacionamentos
 
-Nessa aba, teremos algo parecido com uma agenda normal, porém com metas a serem cumpridas, por exemplo:
+Nessa aba, teremos algo parecido com uma agenda normal, porém com metas a serem cumpridas, por exemplo: O usuário vai marcar que todas as quintas feiras fará algo com a esposa, com os filhos ou com a família toda, esse compromisso aparecerá na agenda visível no app e também terá lembretes que serão em forma de notificações 2 e 1 dia antes além do lembrete no dia escolhido.
