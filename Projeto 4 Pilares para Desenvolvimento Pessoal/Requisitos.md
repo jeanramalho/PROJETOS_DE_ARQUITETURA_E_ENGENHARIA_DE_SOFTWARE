@@ -65,3 +65,7 @@ Nessa aba, teremos um app de gestão de controle financeiro completo, com gráfi
 ### Relacionamentos
 
 Nessa aba, teremos algo parecido com uma agenda normal, porém com metas a serem cumpridas, por exemplo: O usuário vai marcar que todas as quintas feiras fará algo com a esposa, com os filhos ou com a família toda, esse compromisso aparecerá na agenda visível no app e também terá lembretes que serão em forma de notificações 2 e 1 dia antes além do lembrete no dia escolhido. Ou seja nessa aba o usuário poderá colocar metas que o ajudarão a melhorar o relacionamento dele com a família, amigos, igreja, comunidade durante todo o mês. No cadastro da atividade terão campos para ele preencher, como nome da atividade, com quem será a atividade, qual o dia e horário, e se será recorrente, caso seja recorrente, por exemplo toda quinta feira do mês, essa atividade deverá aparecer pra ele em todas as quintas feiras do mês, também deverá ter o campo preparação com o que o usuário precisará comprar ou organizar para atividade, e no dia da atividade, o usuário poderá marcar a atividade como conclúida se ele realmente a realizou. A metrificação será realizada de acordo ao cumprimento das metas que o usuário criou.
+
+### Perfil
+
+Essa será uma aba adicional além dos 4 pilares, mas não entrará nos pilares e nem será metrificada e também aparecerá no header, será a aba de perfil do usuário onde ele poderá colocar os dados dele, nome, foto, sexo, peso, altura, meta de peso, e o app se alimentará desses dados também.
