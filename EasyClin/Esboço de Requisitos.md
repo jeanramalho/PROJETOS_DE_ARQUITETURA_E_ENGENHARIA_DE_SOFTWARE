@@ -12,4 +12,8 @@
    - React, Typescript, Arquitetura MVVM, Biblioteca de ícones de terceiros caso seja necessário, Estilização com tailwind.
 
  * Versão Mobile
-    - React-Native, Expo, Typescript, Arquitetura MVVM, Biblioteca de ícone de terceiros caso seja necessário, Estilização padrão do react-native. 
+    - React-Native, Expo, Typescript, Arquitetura MVVM, Biblioteca de ícone de terceiros caso seja necessário, Estilização padrão do react-native.
+
+## Layout
+
+- O layout do projeto consiste em um dashboard normal, sem nada de muito diferente dos outros dashboards, com um menu sidebar que é ativado através do clique em um menu hamburguer.
