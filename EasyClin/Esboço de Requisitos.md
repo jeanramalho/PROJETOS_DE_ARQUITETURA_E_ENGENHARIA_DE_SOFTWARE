@@ -16,4 +16,4 @@
 
 ## Layout
 
-- O layout do projeto consiste em um dashboard normal, sem nada de muito diferente dos outros dashboards, com um menu sidebar que é ativado através do clique em um menu hamburguer.
+- O layout do projeto consiste em um dashboard normal, sem nada de muito diferente dos outros dashboards, com um menu sidebar que é ativado através do clique em um menu hamburguer. Na página inicial teremos o resumo das principais funcionalidades utilizando gráficos e informações através dos cards.
