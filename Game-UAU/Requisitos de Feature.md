@@ -5,7 +5,4 @@
 ### Relatórios
 
 - Criar campos de relatórios para exibir chamada dos jogadores por sábado.
-- Criar ca
-=======
-
->>>>>>> 73a7bf7529cd0b7f7611687ef346cbe80cecaca0
+- Criar campo de flags para usuários membros e para usuários que estudaram 7
