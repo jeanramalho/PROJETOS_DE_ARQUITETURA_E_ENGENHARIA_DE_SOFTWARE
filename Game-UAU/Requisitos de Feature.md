@@ -7,3 +7,5 @@
 - Criar uma flag de membro para jogador
 
 - Criar flag de estudo 7 da lição ao cadastrar pontos do jogador
+
+- Criar area de regulamento para jogadores
