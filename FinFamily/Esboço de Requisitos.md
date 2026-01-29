@@ -10,4 +10,4 @@ Facilitar o controle financeiro das familias, levando a educação financeira de
 
 ## Arquitetura e tecnologia
 
-Usaremos a arquitetura MVVM para desenvolver o app, o backend será o supabase, a versão web será desenvolvida com React e typescript, a versão mobile que é a primeira prioridade será densenvolvida com react-native, typescript, expo, build developmente.
+Usaremos a arquitetura MVVM para desenvolver o app, o backend será o supabase, a versão web será desenvolvida com React e typescript, a versão mobile que é a primeira prioridade será densenvolvida com react-native, typescript, expo, build development.
