@@ -19,3 +19,5 @@
 - Criar marcação de atividade missionária
 
 - Colocar relatório para pegar a flag de presença ao invés de pontos para capturar a presença do jogadorB
+
+- Adicionar mais retatórios ao escopo do projeto
