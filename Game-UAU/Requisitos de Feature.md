@@ -11,3 +11,5 @@
 - Criar area de regulamento para jogadores
 
 - Criar feature de subir regulamento para adms
+
+- Criar flag de presençw pwrw jogadores
