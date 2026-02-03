@@ -17,3 +17,5 @@
 - Criar marcação de pequeno grupo para jogadores
 
 - Criar marcação de atividade missionária
+
+- Colocar relatório para pegar a flag de presença ao invés de pontos para capturar a presença do jogadorB
