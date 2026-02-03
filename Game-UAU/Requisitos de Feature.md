@@ -13,3 +13,5 @@
 - Criar feature de subir regulamento para adms
 
 - Criar flag de presençw pwrw jogadores
+
+- Criar marcação de pequeno grupo para jogadores
