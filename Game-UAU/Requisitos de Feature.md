@@ -15,3 +15,5 @@
 - Criar flag de presençw pwrw jogadores
 
 - Criar marcação de pequeno grupo para jogadores
+
+- Criar marcação de atividade missionária
