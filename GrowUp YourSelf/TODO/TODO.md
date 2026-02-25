@@ -14,3 +14,6 @@ ________________________________________________________________________________
 
 - Ajusta acertividade a IA em pegar e salvar elementos em linguagem natural como em uma conversa, refinando comportamento da IA e melhorando a persistencia de dados.
 
+Data de criação: 24/02/2026
+Data de conclusão:
+
