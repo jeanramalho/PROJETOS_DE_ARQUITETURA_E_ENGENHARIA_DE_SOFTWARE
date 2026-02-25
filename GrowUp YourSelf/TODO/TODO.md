@@ -8,4 +8,9 @@
  Data de conclusão: 
 
 
-_________________________________________________________________________________________## [feature] - Melhorar a captação de elementos em linguagem natual da IA
+_________________________________________________________________________________________
+
+## [feature] - Melhorar a captação de elementos em linguagem natual da IA
+
+- Ajusta acertividade a IA em pegar e salvar elementos em linguagem natural como em uma conversa, refinando comportamento da IA e melhorando a persistencia de dados.
+
