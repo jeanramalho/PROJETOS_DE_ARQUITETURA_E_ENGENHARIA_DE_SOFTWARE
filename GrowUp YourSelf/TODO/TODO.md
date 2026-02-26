@@ -19,5 +19,5 @@ Data de conclusão: 24/02/2026
 
 _________________________________________________________________________________________
 
-## [feature] - Criar 
+## [feature] - Implementar funcionamento de pontuação nos circulos dos pilares no header
 
