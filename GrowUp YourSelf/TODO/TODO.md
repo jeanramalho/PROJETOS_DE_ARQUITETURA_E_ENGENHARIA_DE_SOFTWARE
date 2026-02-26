@@ -23,3 +23,6 @@ ________________________________________________________________________________
 
 - O projeto deve ser uma forma de metrificação, que deve ser representada através dos círculos dos pilares no header. O objetivo dessa dessa task é tirar todo o mock do projeto e colocar para funcionar com dados reais a metrificação de cada pilar e exibir como deve ser exibido.
 
+Data de criação: 26/02/2026
+Data de conclusão:
+
