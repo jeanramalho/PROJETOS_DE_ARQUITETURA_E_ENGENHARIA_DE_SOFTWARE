@@ -28,4 +28,4 @@ Data de conclusão:
 
 _________________________________________________________________________________________
 
-## [feature] - 
+## [feature] - Criar logo e definir tela de spalsh no app
