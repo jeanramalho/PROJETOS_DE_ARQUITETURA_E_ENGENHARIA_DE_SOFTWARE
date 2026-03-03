@@ -31,3 +31,6 @@ ________________________________________________________________________________
 ## [feature] - Criar logo e definir tela de spalsh no app
 
 - Criar uma logo oficial para o projeto, e recriar a tela de splash do app. Atualmente a tela e a logo do app estão de forna genérica e precisam ser substituidos pelos oficiais.
+
+Data da criação: 02/03/2026
+Data da conclusão:
