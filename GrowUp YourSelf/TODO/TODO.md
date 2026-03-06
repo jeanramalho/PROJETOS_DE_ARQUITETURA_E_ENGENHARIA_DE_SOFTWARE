@@ -39,4 +39,5 @@ ________________________________________________________________________________
 
 ## [feature] - Criar testes 
 
-- Criação de testes para o projeto e validação do que foi criado.
+- Criação de testes para o projeto e validação do que foi criado. Atualmente o app está sem testes unitários e AB a task criada visa criar testes para o projeto.
+
