@@ -38,3 +38,5 @@ Data da conclusão:
 _________________________________________________________________________________________
 
 ## [feature] - Criar testes 
+
+- Criação de testes para o projeto e validação do que foi criado.
