@@ -42,4 +42,4 @@ ________________________________________________________________________________
 - Criação de testes para o projeto e validação do que foi criado. Atualmente o app está sem testes unitários e AB a task criada visa criar testes para o projeto.
 
 Data da criação: 05/03/2026
-Data da conclusão:
+Data da conclusão: ( a fazer)
