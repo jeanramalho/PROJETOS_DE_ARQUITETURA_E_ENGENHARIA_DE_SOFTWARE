@@ -4,3 +4,4 @@
 - Armazena ideias de projetos.
 - Armazena esboço de requisitos dos projetos.
 - Salva estudos de casos.
+- Guarda levantamento de requisitos do projeto.
