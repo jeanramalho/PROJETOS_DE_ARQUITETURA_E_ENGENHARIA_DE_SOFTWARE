@@ -2,4 +2,4 @@
 
 ### Objetivo
 
-- Criar um portifólio com o tema de MacOS e terminal, que vai se alimentar do backend criado, com as minhas informações.
+- Criar um portifólio com o tema de MacOS e terminal, que vai se alimentar do backend criado, com as minhas informações. As tecnologias utilizadas serão react, com arquitetura limpa, separada por camadas.
