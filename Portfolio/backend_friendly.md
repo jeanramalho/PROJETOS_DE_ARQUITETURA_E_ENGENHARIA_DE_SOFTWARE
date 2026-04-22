@@ -12,3 +12,4 @@
  ### Tipo de exibição 
 
   - Ao Cadastrar uma sessão o usuário também poderá escolher o tipo de exibição para salvar no banco de dados, para que o projeto de portfolio principal leia e exiba conforme o escolhido. Os tipos de exibição serão tipo, vitrine, carrossel, home, sessão e etc...
+
