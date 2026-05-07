@@ -14,4 +14,5 @@
   - Início
   - Sobre
   - Experiencias
-  -
+  - Projetos
+  - Canais
