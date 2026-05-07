@@ -9,3 +9,6 @@
 - Como falado acima, o tema será do sistema operacioinal MacOs, com terminal, para lembrar desenvolvedores. Com cores puxados para os tons azuis marinhos escuros e detalhes roxos e lilás.
 
 ### Sessões
+
+- No portifólito termos as sessões:
+  - Início
