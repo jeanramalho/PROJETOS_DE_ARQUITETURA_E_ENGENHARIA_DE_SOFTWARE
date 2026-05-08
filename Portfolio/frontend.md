@@ -16,3 +16,4 @@
   - Experiencias
   - Projetos
   - Canais
+  - Contatos
