@@ -24,4 +24,4 @@
 
   ### Objetivo
 
-  - O objetivo é que o projeto
+  - O objetivo é que o projeto conte mniha história, prenda atenção dos recrutadores, seja interativo e sempre convide o usuário a me conhecer melhor. Com cores, temas e conteúdos que prendam atenção de quem estiver lendo. Ainda quero contar com um blog pessoal dentro do projeto para que o usuário possa me conhecer cada vez mais.
