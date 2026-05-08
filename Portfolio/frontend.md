@@ -24,4 +24,4 @@
 
   ### Objetivo
 
-  - O objetivo é que o ppor
+  - O objetivo é que o projeto
