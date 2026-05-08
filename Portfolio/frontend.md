@@ -20,4 +20,4 @@
 
   ### Estilo
 
-  - O estilo do projeto pegará influencias de esteriótipo de programação e computadores com MACOS, com as cores puxadas para o tema escuro e detalhes roxos e lilás, fontes esteriotipadas de terminais
+  - O estilo do projeto pegará influencias de esteriótipo de programação e computadores com MACOS, com as cores puxadas para o tema escuro e detalhes roxos e lilás, fontes esteriotipadas de terminais, variações de vitrines rotativas e sessões que são carregadas ao clicar em mais.
