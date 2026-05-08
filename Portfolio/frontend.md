@@ -20,4 +20,4 @@
 
   ### Estilo
 
-  -
+  - O estilo do projeto pegará influencias de esteriótipo de programação e computadores com MACOS
